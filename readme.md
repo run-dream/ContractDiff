@@ -1,0 +1,1 @@
+This is a tool to compare and mark difference of e-version and printed-version of one contract.
